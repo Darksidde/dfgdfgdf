@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="Regression Test">
+        <classes>
+            <class name="test.UpandDown"/>
+            <class name="test.Getmethod"/>
+            <class name="test.MouseTıklamalari"/>
+            <!-- Ek test classları buraya ekleyin -->
+        </classes>
+    </test>
+</suite>
